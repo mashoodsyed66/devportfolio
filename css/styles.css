@@ -11,7 +11,7 @@
     Gulp and send to the /css folder which is then loaded on the page.
 */body{font-family:'Lato', sans-serif;font-size:16px}body.active{overflow:hidden;z-index:-1}.no-js #experience-timeline>div{background:#fff;padding:10px;margin-bottom:10px;border:1px solid #dcd9d9} 
 .technology {
-    color: lightblue; /* Change color to light blue */
+    color: #0077cc; /* Change color to light blue */
     margin-right: 5px; /* Adjust spacing between hashtags */
     font-size: 0.9em; /* Define smaller font size */
 }
